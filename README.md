@@ -1,2 +1,2 @@
 # CalculadoraJS
-https://projeto-miguel/calculadorajs/
+https://projeto-miguel.github.io/calculadorajs/
